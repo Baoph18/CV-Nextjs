@@ -68,7 +68,7 @@ export default function Home() {
         {/* Hero Section */}
         <main className="flex-1 flex items-center justify-center bg-gray-100">
           <div className="text-center space-y-6 px-4 md:px-0">
-            <h1 className="text-4xl md:text-6xl font-extrabold">I Am Phan Nguyễn Duy Bảo Frontend Developer From VungTau City.</h1>
+            <h1 className="text-4xl md:text-6xl font-extrabold"> Hello Word ,I Am Phan Nguyễn Duy Bảo Frontend Developer From VungTau City.</h1>
             <p className="text-lg md:text-xl text-gray-700">A Professional Portfolio Template</p>
             <button className="mt-4 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700">View Portfolio</button>
           </div>
